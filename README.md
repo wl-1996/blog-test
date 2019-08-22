@@ -15,7 +15,7 @@
 
 学过的编程语言有 HTML CSS Javascript。我写一段给你瞧瞧吧
 
-```
+```Javascript
 function f(){
         console.log('hello world')
     }
